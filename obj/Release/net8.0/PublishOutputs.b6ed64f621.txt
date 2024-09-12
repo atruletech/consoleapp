@@ -1,0 +1,6 @@
+E:\Projects\SirMobeen\jwt\helloapp\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\helloapp\Settings.job
+E:\Projects\SirMobeen\jwt\helloapp\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\helloapp\helloapp.exe
+E:\Projects\SirMobeen\jwt\helloapp\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\helloapp\helloapp.dll
+E:\Projects\SirMobeen\jwt\helloapp\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\helloapp\helloapp.deps.json
+E:\Projects\SirMobeen\jwt\helloapp\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\helloapp\helloapp.runtimeconfig.json
+E:\Projects\SirMobeen\jwt\helloapp\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\helloapp\helloapp.pdb

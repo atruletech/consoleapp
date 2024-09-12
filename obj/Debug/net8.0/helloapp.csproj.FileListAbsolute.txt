@@ -1,0 +1,14 @@
+E:\Projects\SirMobeen\jwt\helloapp\bin\Debug\net8.0\helloapp.exe
+E:\Projects\SirMobeen\jwt\helloapp\bin\Debug\net8.0\helloapp.deps.json
+E:\Projects\SirMobeen\jwt\helloapp\bin\Debug\net8.0\helloapp.runtimeconfig.json
+E:\Projects\SirMobeen\jwt\helloapp\bin\Debug\net8.0\helloapp.dll
+E:\Projects\SirMobeen\jwt\helloapp\bin\Debug\net8.0\helloapp.pdb
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\helloapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\helloapp.AssemblyInfoInputs.cache
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\helloapp.AssemblyInfo.cs
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\helloapp.csproj.CoreCompileInputs.cache
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\helloapp.dll
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\refint\helloapp.dll
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\helloapp.pdb
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\helloapp.genruntimeconfig.cache
+E:\Projects\SirMobeen\jwt\helloapp\obj\Debug\net8.0\ref\helloapp.dll

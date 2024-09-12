@@ -1,0 +1,5 @@
+E:\Projects\SirMobeen\jwt\helloapp\bin\Release\net8.0\publish\helloapp.exe
+E:\Projects\SirMobeen\jwt\helloapp\bin\Release\net8.0\publish\helloapp.dll
+E:\Projects\SirMobeen\jwt\helloapp\bin\Release\net8.0\publish\helloapp.deps.json
+E:\Projects\SirMobeen\jwt\helloapp\bin\Release\net8.0\publish\helloapp.runtimeconfig.json
+E:\Projects\SirMobeen\jwt\helloapp\bin\Release\net8.0\publish\helloapp.pdb
